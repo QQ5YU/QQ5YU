@@ -79,17 +79,6 @@ const Mercy = {
 [![Punch Card System](https://github-readme-stats.vercel.app/api/pin/?username=QQ5YU&repo=punch_card_system&hide_border=true)](https://github.com/QQ5YU/punch_card_system) [![Rocket.Chat](https://github-readme-stats.vercel.app/api/pin/?username=QQ5YU&repo=Rocket.Chat&hide_border=true)](https://github.com/QQ5YU/Rocket.Chat)
 
 </div>
-
-----------
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QQ5YU&theme=minimal&hide_border=true&area=true)
-
-</div>
-
 -------
 
 <div align="center">
