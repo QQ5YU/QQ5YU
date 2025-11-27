@@ -68,7 +68,10 @@ const Mercy = {
 
 ## 📊 GitHub Statistics
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QQ5YU&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QQ5YU&layout=compact&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=QQ5YU&hide_border=true" alt="GitHub Streak" /> </div>
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QQ5YU&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QQ5YU&layout=compact&hide_border=true"/> </div> <div align="center"> 
+</div>
 
 ----------
 
@@ -79,7 +82,6 @@ const Mercy = {
 [![Punch Card System](https://github-readme-stats.vercel.app/api/pin/?username=QQ5YU&repo=punch_card_system&hide_border=true)](https://github.com/QQ5YU/punch_card_system) [![Rocket.Chat](https://github-readme-stats.vercel.app/api/pin/?username=QQ5YU&repo=Rocket.Chat&hide_border=true)](https://github.com/QQ5YU/Rocket.Chat)
 
 </div>
--------
 
 <div align="center">
 
