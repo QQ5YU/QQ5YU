@@ -63,30 +63,3 @@ const Mercy = {
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=teratail&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QQ5YU&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QQ5YU&layout=compact&hide_border=true"/> </div> <div align="center"> 
-</div>
-
-----------
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Punch Card System](https://github-readme-stats.vercel.app/api/pin/?username=QQ5YU&repo=punch_card_system&hide_border=true)](https://github.com/QQ5YU/punch_card_system) [![Rocket.Chat](https://github-readme-stats.vercel.app/api/pin/?username=QQ5YU&repo=Rocket.Chat&hide_border=true)](https://github.com/QQ5YU/Rocket.Chat)
-
-</div>
-
-<div align="center">
-
-**⭐ From [QQ5YU](https://github.com/QQ5YU) | Thanks for visiting!**
-
-_"First, solve the problem. Then, write the code."_ – John Johnson
-
-</div>
