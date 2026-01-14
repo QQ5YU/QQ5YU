@@ -15,10 +15,13 @@ const Mercy = {
         },
         backEnd: {
             runtime: ["Node.js"],
-            framework: ["Express.js"],
+            framework: ["Nestjs", "Express.js"],
             dataBase: ["Mysql", "Mongo DB"]
         },
-        tools: ["Git", "npm", "pnpm", "gemini CLI", "Copilot", "BMad"]
+        tools: ["Git", "npm", "pnpm", "Gemini CLI", "Copilot", "BMad"],
+        devOps: {
+            CloudService: ["Azure", "GCP", "Github Action"]
+        }
     },
     currentFocus: "Building scalable web applications",
     learning: ["Deep Learning", "System Architecture", "FullStack Applicaiont"],
